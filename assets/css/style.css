@@ -1,0 +1,14 @@
+body{
+	background-color: rgb(67, 174, 108);
+	text-align: center;
+}
+
+.start{
+background-color: greenyellow;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
